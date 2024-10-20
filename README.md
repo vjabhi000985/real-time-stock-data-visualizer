@@ -1,5 +1,6 @@
 # Real-Time Stock Data Visualization
 ## Project Structure:
+```
 websocket-stock-data/
 │
 ├── app.py                     # Main application entry point (WebSocket client + tabular storage + visualization)
@@ -26,3 +27,4 @@ websocket-stock-data/
 │   └── stock_plots/            # Directory to store generated stock data visualizations
 │
 └── README.md                   # Project documentation (overview, setup instructions, etc.)
+```
